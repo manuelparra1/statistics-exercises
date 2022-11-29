@@ -1,3 +1,7 @@
 *.csv
 env.py
 *.ipynb_checkpoints*
+*.pdf
+*.doc
+*.xls
+
