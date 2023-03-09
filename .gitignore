@@ -2,6 +2,7 @@
 env.py
 *.ipynb_checkpoints*
 *.pdf
+*.png
 *.doc
 *.xls
 
